@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #b67b7b;
+}
+
+#site{
+    width: 1310px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    width: 100%;
+    height: 1000vh;
+    background: #98c96f;
+}
+
+header{
+    width: 100%;
+    height: 45px;
+    background: #000000;
+    float: left;
+    padding: 0;
+    position: fixed;
+}
+
+#unityicon{
+    /* background: #0b45b1; */
+    width: 16px;
+    height: auto;
+    margin-top: 0px;
+    float: left;
+    margin: 7px 24px 0 174px;
+}
+
+header ul{
+    margin-top: 8px;
+}
+header ul li{
+    display:inline;
+    /* background: red; */
+    padding: 5px;
+    margin: 0 0 0 10px;
+    color: rgb(175, 175, 175);
+    font-size: 12.5px;
+}
+
+#um{
+    width: 150px;
+    height: 30px;
+    margin: 0 0 0 190px;
+    background: #2196F3;
+    outline: none;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #F9FBFF;
+    border: 0;
+    border-radius: 20px;
+} 
+
+.icon{
+    margin: 100px 0 0 0;
+    display: inline;
+    color: rgb(255, 255, 255);
+}
+
+#icon{
+    width: 20px;
+    height: auto;
+}
+
+#pag1{
+    background: #7cb5ff;
+    width: auto;
+    height: 700px;
+}
+
+#texto1{
+    margin: 150px 0 0 543px;
+    font-size: 100px;
+    color: #ffffff;
+    font-weight: normal;
+}
+
+#dois{
+    width: 130px;
+    height: 40px;
+    margin: 50px 0 0 590px;
+    background: #2196F3;
+    outline: none;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #F9FBFF;
+    border: 0;
+    border-radius: 20px;
+}
+
+.bloco{
+        /* From https://css.glass */
+    background: rgba(255, 255, 255, 0);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.1px);
+    -webkit-backdrop-filter: blur(10.1px);
+    width: 160px;
+    height: 10px;
+    margin-left: 5px;
+    padding: 5%;
+    display: inline-block;
+}
+#bloco1{
+    margin-left: 210px;
+    margin-top: 90px;
+}
+#bloco2{
+    margin-top: 40px;
+}
+#bloco3{
+    margin-top: 80px;
+}
+
+/* .bloco h2{
+    float: left;
+} */
+
+
+#pag2{
+    background: #000000;
+    width: auto;
+    height: 620px;
+}
+
+.Bloco{
+        background: #141414;
+        color: #ffffff;
+        width: 160px;
+        height: 300px;
+        margin-left: 5px;
+        margin-top: 50px;
+        padding: 5%;
+        display: inline-block;
+        border-radius: 12px;
+}
+
+#Bloco1{
+    margin-left: 210px;
+}
+
+#pag2 button{
+    width: 130px;
+    height: 40px;
+    margin-top: 50px;
+    background: #2195f300;
+    outline: none;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #F9FBFF;
+    border: 0;
+    border-radius: 20px;
+    outline: auto;
+    outline-color: #2195f3;
+}
+
+#pag3{
+    background: #461c68;
+    height: 720px;
+    width: auto;
+    /* display: inline; */
+}
+
+#botao3{
+    width: 130px;
+    height: 40px;
+    margin-top: 50px;
+    background: #2195f300;
+    outline: none;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #F9FBFF;
+    border: 0;
+    border-radius: 20px;
+    outline: auto;
+    outline-color: #2195f3;
+}
