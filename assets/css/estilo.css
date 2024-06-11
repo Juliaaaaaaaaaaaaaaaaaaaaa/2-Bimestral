@@ -8,7 +8,7 @@ body{
 }
 
 #site{
-    width: 1310px;
+    width: 1350px;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -141,7 +141,7 @@ header ul li{
         width: 160px;
         height: 300px;
         margin-left: 5px;
-        margin-top: 50px;
+        margin-top: 60px;
         padding: 5%;
         display: inline-block;
         border-radius: 12px;
@@ -149,6 +149,12 @@ header ul li{
 
 #Bloco1{
     margin-left: 210px;
+}
+
+.Bloco img{
+    background: #b42222;
+    width: auto;
+    height: 130px;
 }
 
 #pag2 button{
@@ -169,23 +175,144 @@ header ul li{
 
 #pag3{
     background: #461c68;
-    height: 720px;
+    height: 600px;
     width: auto;
     /* display: inline; */
+    background: url(../img/6.png) no-repeat;
+    background-size: cover;
 }
 
 #botao3{
-    width: 130px;
+    width: 10%;
     height: 40px;
-    margin-top: 50px;
-    background: #2195f300;
+    margin-top: 5%;
+    margin-left: 20%;
+    float: left;
     outline: none;
+    background-color: #14141400;
     font-size: 12px;
     font-weight: bold;
     letter-spacing: 2px;
-    color: #F9FBFF;
+    color: #f9fbff;
     border: 0;
     border-radius: 20px;
     outline: auto;
     outline-color: #2195f3;
 }
+.texto{
+    width: 30%;
+    height: auto;
+    float: left;
+    color: #ffffff;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: medium;
+    font-weight: normal;
+}
+#pag4{
+    background: #ffffff;
+    height: 350px;
+    width: auto;
+    padding-bottom: 3%;
+}
+#pagina4{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-top: 8%;
+    text-align: center;
+    color: #000000;
+    font-size: 50px;
+    font-weight: normal;
+}
+#page4{
+    width: 60%;
+    height: auto;
+    float: left;
+    margin-left: 20%;
+    text-align: center;
+    font-size: 1.4em;
+    margin-top: 3%;
+    color: #a3a3a3;
+}
+#pagii4{
+    width: 15%;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 30%;
+    background: #2195f300;
+    outline: none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: rgb(33, 149, 243);
+    border: 0;
+    border-radius: 20px;
+    outline: auto;
+    outline-color: rgb(33, 149, 243);
+    text-transform: uppercase;
+}
+#pogi4{
+    width: 15%;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 4%;
+    margin-bottom: 5%;
+    background: #2195f300;
+    outline: none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: rgb(0, 0, 0);
+    border: 0;
+    border-radius: 20px;
+    outline-color: rgba(33, 149, 243, 0);
+    text-transform: uppercase;
+}
+#pag5{
+    background: #ff0000;
+    height: 600px;
+    width: auto;
+    background: url(../img/bleak-sword-dx.jpg) no-repeat;
+    background-size: cover;
+}
+#pagina5{
+    width: 30%;
+    height: auto;
+    float: left;
+    color: #ffffff;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+#page5{
+    width: 30%;
+    height: auto;
+    float: left;
+    color: #ffffff;
+    margin-top: 5%;
+    margin-left: 4%;
+    font-size: 1.5em;
+    font-weight: normal;
+}
+#pogi5{
+    width: 15%;
+    height: 40px;
+    margin-top: 5%;
+    margin-left: 15%;
+    float: left;
+    background: #2195f300;
+    outline: none;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: 20px;
+    outline: auto;
+    outline-color: rgb(33, 149, 243);
+    text-transform: uppercase;
+}
+
+
